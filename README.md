@@ -1,43 +1,55 @@
 # Neuro-Symbolic AI
-This is the official GitHub repository for the book "Neuro-Symbolic AI" published by Packt. This repository contains all the material required to follow and replicate the content discussed in Chapter 8.
 
-# About the Book
-Neuro-Symbolic AI has become an increasingly critical area of study, as it seeks to bridge the gap between human-like understanding and machine learning capabilities. Traditional Artificial Intelligence (AI) has often struggled to grasp the nuances and complexities of human cognition, which is where Neuro-Symbolic AI comes into play. By combining the strengths of both neural networks and symbolic reasoning, this groundbreaking approach aims to design systems that understand the world as we do. 
+<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Neuro-Symbolic AI" height="256px" align="right"></a>
 
-The main areas of focus in this book are as follows: 
+This is the code repository for [Neuro-Symbolic AI](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
 
-• The history and limitations of traditional AI 
+**Design transparent and trustworthy systems that understand the world as you do**
 
-• The origins and evolution of symbolic AI and neural networks 
+## What is this book about?
+Neuro-symbolic AI offers the potential to create intelligent systems that possess both the reasoning capabilities of symbolic AI along with the learning capabilities of neural networks. This book provides an overview of AI and its inner mechanics, covering both symbolic and neural network approaches.
+You’ll begin by exploring the decline of symbolic AI and the recent neural network revolution, as well as their limitations. The book then delves into the importance of building trustworthy and transparent AI solutions using explainable AI techniques. As you advance, you’ll explore the emerging field of neuro-symbolic AI, which combines symbolic AI and modern neural networks to improve performance and transparency. You’ll also learn how to get started with neuro-symbolic AI using Python with the help of practical examples. In addition, the book covers the most promising technologies in the field, providing insights into the future of AI.
+Upon completing this book, you will acquire a profound comprehension of neuro-symbolic AI and its practical implications. Additionally, you will cultivate the essential abilities to conceptualize, design, and execute neuro-symbolic AI solutions.
+This book covers the following exciting features: 
+<What you will learn, in bullet points>
 
-• The principles and foundation of Neuro-Symbolic AI 
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1804617628) today!
 
-• Practical applications and programming techniques for Neuro-Symbolic AI 
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
-• The need for explainable systems and the Future of AI 
+## Instructions and Navigations
+All of the code is organized into folders.
 
-In this book, we will take you on a journey through the evolution of AI. We will delve into the rise and fall of symbolic AI, followed by the neural networks revolution. Our exploration will then lead us to the exciting intersection of these two domains, as we introduce Neuro-Symbolic AI as the next level of AI. Through the book, we aim to offer you a comprehensive understanding of the opportunities and challenges in the field of Neuro-Symbolic AI, as well as a practical guide to implementing some of these concepts in Python. We will also discuss the importance of explainable AI and the exciting future developments that await us. Rather than focusing solely on theoretical concepts, our book presents a balanced blend of theory, practical applications, and real-world examples. By using accessible language and detailed illustrations, we hope to make the topic engaging and approachable for both beginners and experienced AI enthusiasts alike. 
+The code will look like the following:
+```
+html, body, #map {
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+```
 
-Embark on this fascinating journey with us, and uncover the potential of Neuro-Symbolic AI to revolutionize the way we interact with intelligent systems. Let's explore how we can design systems that truly understand the world as we do, and reshape the future of AI together. 
+**Following is what you need for this book:**
+This book is ideal for data scientists, machine learning engineers, and AI enthusiasts who want to explore the emerging field of neuro-symbolic AI and discover how to build transparent and trustworthy AI solutions. A basic understanding of AI concepts and familiarity with Python programming are needed to make the most of this book.	
 
-# Getting Started
-To get started with the code examples in the book, you will need to have Python 3 installed on your machine. You will also need to have the following libraries installed:
+With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
 
-• numpy
-• pandas
-• matplotlib
-• scikit-learn
-• torch
-• ltn (LTNtorch)
+### Software and Hardware List
 
-The ltn package can be installed through pip as follows:
+| Chapter  | Software required                                                                    | OS required                        |
+| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
+|  1-9		 |   		Python 3.7+ 					                                            			  | Windows, Mac OS X, and Linux (Any) |
 
-`pip install LTNtorch`
 
-To run the code examples, you can open the Jupyter notebook in this repository using JupyterLab or Jupyter Notebook. You can then execute the code cells within the notebooks to see the results.
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/94cl7).
 
-Alternatively, you can upload the notebook to Google Colab and run everything from their. Please note that if you are using a GPU to run your code, you might need to make some minor code changes to enable GPU support. Google Colab is recommended for begineers since it provides a pre-installed environment out-of-the-box.
 
----
+### Related products <Other books you may enjoy>
+* Hands-On Graph Neural Networks Using Python [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/Hands-Graph-Neural-Networks-Python/dp/1804617520)
 
-We hope you enjoy reading "Neuro-Symbolic AI" and find it useful in your work. If you have any feedback or questions, please don't hesitate to contact us.
+* Data Augmentation with Python [[Packt]](<Book link on Packtpub>) [[Amazon]]([https://www.amazon.com/dp/<10P-ISBN>](https://www.amazon.com/Data-Augmentation-Python-learning-augmentation/dp/1803246456))
+
+## Get to Know the Author(s)
+**Alexiei Dingli** is a professor of artificial intelligence at the University of Malta. As an AI expert with over two decades of experience, his research has helped numerous companies around the world successfully implement AI solutions. His work has been recognized globally, with international experts rating it as world-class. He is a recipient of multiple prestigious awards, including those from the European Space Agency, the World Intellectual Property Organization, and the United Nations, to name a few. With a rich collection of peer-reviewed publications to his name, he is also an esteemed member of the Malta.AI task force, which was established by the Maltese government to propel Malta to the forefront of the global AI landscape.
+
+**David Farrugia** is a seasoned data scientist and a Ph.D. candidate in AI at the University of Malta. David Farrugia has worked in diverse industries, including gaming, manufacturing, customer relationship management, affiliate marketing, and anti-fraud. He has an interest in exploring the intersection of business and academic research. He also believes that the emerging field of neuro-symbolic AI has the potential to revolutionize the way we approach AI and solve some of the most complex problems in the world.
