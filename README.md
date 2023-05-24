@@ -1,8 +1,8 @@
 # Neuro-Symbolic AI
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Neuro-Symbolic AI" height="256px" align="right"></a>
+<a href="https://www.amazon.in/dp/1804617628/ref=sr_1_1?crid=3Q3BT36MST0YC&keywords=Neuro+Symbolic+AI+packt&qid=1684929295&s=books&sprefix=neuro+symbolic+ai+packt%2Cstripbooks%2C554&sr=1-1"><img src="https://m.media-amazon.com/images/I/41R1qg6mrgL._SX403_BO1,204,203,200_.jpg" alt="Neuro-Symbolic AI" height="256px" align="right"></a>
 
-This is the code repository for [Neuro-Symbolic AI](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Neuro-Symbolic AI](https://www.amazon.in/dp/1804617628/ref=sr_1_1?crid=3Q3BT36MST0YC&keywords=Neuro+Symbolic+AI+packt&qid=1684929295&s=books&sprefix=neuro+symbolic+ai+packt%2Cstripbooks%2C554&sr=1-1), published by Packt.
 
 **Design transparent and trustworthy systems that understand the world as you do**
 
