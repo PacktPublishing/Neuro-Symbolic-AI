@@ -1,8 +1,8 @@
 # Neuro-Symbolic AI
 
-<a href="https://www.amazon.in/dp/1804617628/ref=sr_1_1?crid=3Q3BT36MST0YC&keywords=Neuro+Symbolic+AI+packt&qid=1684929295&s=books&sprefix=neuro+symbolic+ai+packt%2Cstripbooks%2C554&sr=1-1"><img src="https://m.media-amazon.com/images/I/41R1qg6mrgL._SX403_BO1,204,203,200_.jpg" alt="Neuro-Symbolic AI" height="256px" align="right"></a>
+<a href="https://www.amazon.com/dp/1804617628"><img src="https://m.media-amazon.com/images/I/41R1qg6mrgL._SX403_BO1,204,203,200_.jpg" alt="Neuro-Symbolic AI" height="256px" align="right"></a>
 
-This is the code repository for [Neuro-Symbolic AI](https://www.amazon.in/dp/1804617628/ref=sr_1_1?crid=3Q3BT36MST0YC&keywords=Neuro+Symbolic+AI+packt&qid=1684929295&s=books&sprefix=neuro+symbolic+ai+packt%2Cstripbooks%2C554&sr=1-1), published by Packt.
+This is the code repository for [Neuro-Symbolic AI](https://www.amazon.com/dp/1804617628), published by Packt.
 
 **Design transparent and trustworthy systems that understand the world as you do**
 
@@ -11,7 +11,6 @@ Neuro-symbolic AI offers the potential to create intelligent systems that posses
 You’ll begin by exploring the decline of symbolic AI and the recent neural network revolution, as well as their limitations. The book then delves into the importance of building trustworthy and transparent AI solutions using explainable AI techniques. As you advance, you’ll explore the emerging field of neuro-symbolic AI, which combines symbolic AI and modern neural networks to improve performance and transparency. You’ll also learn how to get started with neuro-symbolic AI using Python with the help of practical examples. In addition, the book covers the most promising technologies in the field, providing insights into the future of AI.
 Upon completing this book, you will acquire a profound comprehension of neuro-symbolic AI and its practical implications. Additionally, you will cultivate the essential abilities to conceptualize, design, and execute neuro-symbolic AI solutions.
 This book covers the following exciting features: 
-<What you will learn, in bullet points>
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1804617628) today!
 
