@@ -47,7 +47,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Hands-On Graph Neural Networks Using Python [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/Hands-Graph-Neural-Networks-Python/dp/1804617520)
 
-* Data Augmentation with Python [[Packt]](<Book link on Packtpub>) [[Amazon]]([https://www.amazon.com/dp/<10P-ISBN>](https://www.amazon.com/Data-Augmentation-Python-learning-augmentation/dp/1803246456))
+* Data Augmentation with Python [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/Data-Augmentation-Python-learning-augmentation/dp/1803246456)
 
 ## Get to Know the Author(s)
 **Alexiei Dingli** is a professor of artificial intelligence at the University of Malta. As an AI expert with over two decades of experience, his research has helped numerous companies around the world successfully implement AI solutions. His work has been recognized globally, with international experts rating it as world-class. He is a recipient of multiple prestigious awards, including those from the European Space Agency, the World Intellectual Property Organization, and the United Nations, to name a few. With a rich collection of peer-reviewed publications to his name, he is also an esteemed member of the Malta.AI task force, which was established by the Maltese government to propel Malta to the forefront of the global AI landscape.
