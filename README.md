@@ -10,7 +10,14 @@ This is the code repository for [Neuro-Symbolic AI](https://www.amazon.com/dp/18
 Neuro-symbolic AI offers the potential to create intelligent systems that possess both the reasoning capabilities of symbolic AI along with the learning capabilities of neural networks. This book provides an overview of AI and its inner mechanics, covering both symbolic and neural network approaches.
 You’ll begin by exploring the decline of symbolic AI and the recent neural network revolution, as well as their limitations. The book then delves into the importance of building trustworthy and transparent AI solutions using explainable AI techniques. As you advance, you’ll explore the emerging field of neuro-symbolic AI, which combines symbolic AI and modern neural networks to improve performance and transparency. You’ll also learn how to get started with neuro-symbolic AI using Python with the help of practical examples. In addition, the book covers the most promising technologies in the field, providing insights into the future of AI.
 Upon completing this book, you will acquire a profound comprehension of neuro-symbolic AI and its practical implications. Additionally, you will cultivate the essential abilities to conceptualize, design, and execute neuro-symbolic AI solutions.
+
 This book covers the following exciting features: 
+* Gain an understanding of the intuition behind neuro-symbolic AI
+* Determine the correct uses that can benefit from neuro-symbolic AI
+* Differentiate between types of explainable AI techniques
+* Think about, design, and implement neuro-symbolic AI solutions
+* Create and fine-tune your first neuro-symbolic AI system
+* Explore the advantages of fusing symbolic AI with modern neural networks in neuro-symbolic AI systems
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1804617628) today!
 
